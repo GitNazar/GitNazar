@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Nazar Ivanochko (@GitNazar)
 - 👀 I’m interested in software testing technologies
 - 🌱 I’m currently learning manual and automation software testing
-- 📫 My email ivanochkonazar@icloud.com  
+- 📫 My email ivanochkonazar@icloud.com   
